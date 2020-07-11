@@ -1,2 +1,2 @@
 # threat-model
-Thrrat models for various software applications
+Threat models for various software applications
